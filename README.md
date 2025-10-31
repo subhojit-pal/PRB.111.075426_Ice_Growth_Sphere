@@ -6,6 +6,6 @@ The final paper was published on Febuary 21st 2025 in Physical Review B.
 The data can be found within the file "data.xls"
 
 ## Links
-[Link to published article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.075426
-[Link to prepint arXiv version](https://arxiv.org/abs/2502.13155)
+The [Link to published article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.075426
+The [Link to prepint arXiv version](https://arxiv.org/abs/2502.13155)
 
