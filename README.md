@@ -51,13 +51,13 @@ For more information on licensing GitHub repositories, see:
 
 A permanent identifier (DOI) has been assigned to this dataset via Zenodo:
 
-**Dataset DOI:** [10.5281/zenodo.18722224](https://doi.org/10.5281/zenodo.18722224)
+**Dataset DOI:** [10.5281/zenodo.18722681](https://doi.org/10.5281/zenodo.18722681)
 
 
 
 # 5. Version and Release Date
 
-**Version:** 1.0.0 
+**Version:** 2.0.0 
 **Release Date:** 2026-01-31
 
 ---
@@ -66,7 +66,7 @@ A permanent identifier (DOI) has been assigned to this dataset via Zenodo:
 
 If you use this dataset, please cite:
 
-S. Carretero-Palacios (2025) et. al. *Dataset for: Impact-of-metal-oxidation-on-ice-growth-and-melting*. Zenodo. DOI: [10.5281/zenodo.18722224](https://doi.org/10.5281/zenodo.18722224)
+Y.Li (2025) et. al. *Dataset for: Impact-of-metal-oxidation-on-ice-growth-and-melting*. Zenodo. DOI: [10.5281/zenodo.18722681](https://doi.org/10.5281/zenodo.18722681)
 
 ---
 
